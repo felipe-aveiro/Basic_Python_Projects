@@ -8,5 +8,5 @@ Here you will find materials from Python projects I completed during my academic
 This repository contains code and resources for Python projects related to Mechanical Engineering. Each project focuses on applying fundamental Python concepts to solve problems relevant to the field.
 
 ### 💡 Usage
-Feel free to explore the projects and use the code and resources for your learning or reference purposes. If you have any questions or suggestions, please don't hesitate to open an issue or reach out to me.
+Feel free to explore the projects in the different branches and use the code and resources for your learning or reference purposes. If you have any questions or suggestions, please don't hesitate to open an issue or reach out to me.
 
