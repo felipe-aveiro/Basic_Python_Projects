@@ -1,7 +1,8 @@
 # Turbomachinery Project
-## <b>Welcome to my <em>Turbomachinery</em> Project repository!</b>
 
 <img src="https://www.ictm-aachen.com/en/jcr:content/stage/stageParsys/stage_slide_2/image.img.jpg/1632219009308/AdobeStock-56159073-buehne.jpg" width= "auto" height="auto">
+
+## <b>Welcome to my <em>Turbomachinery</em> Project repository!</b>
 
 ### ℹ️ <b>About</b>
 Here you will find materials from a Python project related to turbomachinery that I have completed during my academic journey in Mechanical Engineering.
